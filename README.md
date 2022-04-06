@@ -1,4 +1,4 @@
-# MedicenterHomePageClone
+# MedicenterHomePage
 Este design não é de minha autoria. O que é de minha autoria é a parte de construção de código.
 Projeto totalmente resposivo, é possível utilizar este layout tanto para Desktop e Mobile.
 
